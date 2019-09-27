@@ -1,0 +1,1554 @@
+{
+  "IsRedis": false,
+  "Code": 200,
+  "Msg": "ok",
+  "Data": [
+      {
+          "CommonTypeID": 168371,
+          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+          "Name": "砖集惠民大药房",
+          "ParentID": 0,
+          "Nodes": [
+              {
+                  "CommonTypeID": 171186,
+                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                  "Name": "加盟门店",
+                  "ParentID": 168371,
+                  "Nodes": [
+                      {
+                          "CommonTypeID": 171237,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "湘南区域",
+                          "ParentID": 171186,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171240,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "101509",
+                                  "ParentID": 171237,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171241,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "永兴县大桥路",
+                                          "ParentID": 171240,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,湘南区域,101509,永兴县大桥路"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,湘南区域,101509"
+                              },
+                              {
+                                  "CommonTypeID": 171238,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "101527",
+                                  "ParentID": 171237,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171239,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "新田县益康",
+                                          "ParentID": 171238,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,湘南区域,101527,新田县益康"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,湘南区域,101527"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,加盟门店,湘南区域"
+                      },
+                      {
+                          "CommonTypeID": 171234,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "株洲石峰区域",
+                          "ParentID": 171186,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171235,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "101478",
+                                  "ParentID": 171234,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171236,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "渌口镇碧鸿佳园",
+                                          "ParentID": 171235,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,株洲石峰区域,101478,渌口镇碧鸿佳园"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,株洲石峰区域,101478"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,加盟门店,株洲石峰区域"
+                      },
+                      {
+                          "CommonTypeID": 171229,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "醴攸茶炎衡区域",
+                          "ParentID": 171186,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171232,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "101441",
+                                  "ParentID": 171229,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171233,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "万商红",
+                                          "ParentID": 171232,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,醴攸茶炎衡区域,101441,万商红"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,醴攸茶炎衡区域,101441"
+                              },
+                              {
+                                  "CommonTypeID": 171230,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "101403",
+                                  "ParentID": 171229,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171231,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "茶陵朝阳街",
+                                          "ParentID": 171230,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,醴攸茶炎衡区域,101403,茶陵朝阳街"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,醴攸茶炎衡区域,101403"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,加盟门店,醴攸茶炎衡区域"
+                      },
+                      {
+                          "CommonTypeID": 171226,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "娄邵区域",
+                          "ParentID": 171186,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171227,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "101526",
+                                  "ParentID": 171226,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171228,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "众石",
+                                          "ParentID": 171227,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,娄邵区域,101526,众石"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,娄邵区域,101526"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,加盟门店,娄邵区域"
+                      },
+                      {
+                          "CommonTypeID": 171223,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "长沙芙蓉区域",
+                          "ParentID": 171186,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171224,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310445",
+                                  "ParentID": 171223,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171225,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "滨和",
+                                          "ParentID": 171224,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,长沙芙蓉区域,7310445,滨和"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,长沙芙蓉区域,7310445"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,加盟门店,长沙芙蓉区域"
+                      },
+                      {
+                          "CommonTypeID": 171218,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "长沙开福区域",
+                          "ParentID": 171186,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171221,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310685",
+                                  "ParentID": 171218,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171222,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "福楚",
+                                          "ParentID": 171221,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,长沙开福区域,7310685,福楚"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,长沙开福区域,7310685"
+                              },
+                              {
+                                  "CommonTypeID": 171219,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310259",
+                                  "ParentID": 171218,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171220,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "劭丰",
+                                          "ParentID": 171219,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,长沙开福区域,7310259,劭丰"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,长沙开福区域,7310259"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,加盟门店,长沙开福区域"
+                      },
+                      {
+                          "CommonTypeID": 171211,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "长沙天心区域",
+                          "ParentID": 171186,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171216,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310602",
+                                  "ParentID": 171211,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171217,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "鸿府",
+                                          "ParentID": 171216,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,长沙天心区域,7310602,鸿府"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,长沙天心区域,7310602"
+                              },
+                              {
+                                  "CommonTypeID": 171214,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310567",
+                                  "ParentID": 171211,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171215,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "湘府文苑",
+                                          "ParentID": 171214,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,长沙天心区域,7310567,湘府文苑"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,长沙天心区域,7310567"
+                              },
+                              {
+                                  "CommonTypeID": 171212,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310533",
+                                  "ParentID": 171211,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171213,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "长彩",
+                                          "ParentID": 171212,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,长沙天心区域,7310533,长彩"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,长沙天心区域,7310533"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,加盟门店,长沙天心区域"
+                      },
+                      {
+                          "CommonTypeID": 171206,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "长沙雨花二区",
+                          "ParentID": 171186,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171209,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310659",
+                                  "ParentID": 171206,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171210,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "尚东湾",
+                                          "ParentID": 171209,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,长沙雨花二区,7310659,尚东湾"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,长沙雨花二区,7310659"
+                              },
+                              {
+                                  "CommonTypeID": 171207,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310594",
+                                  "ParentID": 171206,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171208,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "东澜湾",
+                                          "ParentID": 171207,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,长沙雨花二区,7310594,东澜湾"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,长沙雨花二区,7310594"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,加盟门店,长沙雨花二区"
+                      },
+                      {
+                          "CommonTypeID": 171203,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "长沙雨花一区",
+                          "ParentID": 171186,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171204,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310615",
+                                  "ParentID": 171203,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171205,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "美洲故事",
+                                          "ParentID": 171204,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,长沙雨花一区,7310615,美洲故事"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,长沙雨花一区,7310615"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,加盟门店,长沙雨花一区"
+                      },
+                      {
+                          "CommonTypeID": 171198,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "长沙岳麓二区",
+                          "ParentID": 171186,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171201,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310313",
+                                  "ParentID": 171198,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171202,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "罗校荣",
+                                          "ParentID": 171201,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,长沙岳麓二区,7310313,罗校荣"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,长沙岳麓二区,7310313"
+                              },
+                              {
+                                  "CommonTypeID": 171199,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310114",
+                                  "ParentID": 171198,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171200,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "罗娇艳",
+                                          "ParentID": 171199,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,长沙岳麓二区,7310114,罗娇艳"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,长沙岳麓二区,7310114"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,加盟门店,长沙岳麓二区"
+                      },
+                      {
+                          "CommonTypeID": 171193,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "长沙岳麓一区",
+                          "ParentID": 171186,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171196,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310612",
+                                  "ParentID": 171193,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171197,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "梅澜坊",
+                                          "ParentID": 171196,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,长沙岳麓一区,7310612,梅澜坊"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,长沙岳麓一区,7310612"
+                              },
+                              {
+                                  "CommonTypeID": 171194,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310273",
+                                  "ParentID": 171193,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171195,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "和馨园",
+                                          "ParentID": 171194,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,长沙岳麓一区,7310273,和馨园"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,长沙岳麓一区,7310273"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,加盟门店,长沙岳麓一区"
+                      },
+                      {
+                          "CommonTypeID": 171190,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "宁望益浏区域",
+                          "ParentID": 171186,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171191,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310325",
+                                  "ParentID": 171190,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171192,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "宁乡玉潭镇嘉英",
+                                          "ParentID": 171191,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,宁望益浏区域,7310325,宁乡玉潭镇嘉英"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,宁望益浏区域,7310325"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,加盟门店,宁望益浏区域"
+                      },
+                      {
+                          "CommonTypeID": 171187,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "湘北区域",
+                          "ParentID": 171186,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171188,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310554",
+                                  "ParentID": 171187,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171189,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "平江明德",
+                                          "ParentID": 171188,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,加盟门店,湘北区域,7310554,平江明德"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,加盟门店,湘北区域,7310554"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,加盟门店,湘北区域"
+                      }
+                  ],
+                  "Img": null,
+                  "DepartmentStr": "砖集惠民大药房,加盟门店"
+              },
+              {
+                  "CommonTypeID": 171136,
+                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                  "Name": "合作门店",
+                  "ParentID": 168371,
+                  "Nodes": [
+                      {
+                          "CommonTypeID": 171155,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "长沙天心区域",
+                          "ParentID": 171136,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171156,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310623",
+                                  "ParentID": 171155,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171157,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "新蔡南",
+                                          "ParentID": 171156,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,合作门店,长沙天心区域,7310623,新蔡南"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,合作门店,长沙天心区域,7310623"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,合作门店,长沙天心区域"
+                      },
+                      {
+                          "CommonTypeID": 171137,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "长沙芙蓉区域",
+                          "ParentID": 171136,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171138,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310736",
+                                  "ParentID": 171137,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171139,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "韶山北路",
+                                          "ParentID": 171138,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,合作门店,长沙芙蓉区域,7310736,韶山北路"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,合作门店,长沙芙蓉区域,7310736"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,合作门店,长沙芙蓉区域"
+                      }
+                  ],
+                  "Img": null,
+                  "DepartmentStr": "砖集惠民大药房,合作门店"
+              },
+              {
+                  "CommonTypeID": 171126,
+                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                  "Name": "ACD",
+                  "ParentID": 168371,
+                  "Nodes": [
+                      {
+                          "CommonTypeID": 171127,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "2选项A",
+                          "ParentID": 171126,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171128,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "2选项B",
+                                  "ParentID": 171127,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171129,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "2选项C",
+                                          "ParentID": 171128,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,ACD,2选项A,2选项B,2选项C"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,ACD,2选项A,2选项B"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,ACD,2选项A"
+                      }
+                  ],
+                  "Img": null,
+                  "DepartmentStr": "砖集惠民大药房,ACD"
+              },
+              {
+                  "CommonTypeID": 171107,
+                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                  "Name": "直营门店",
+                  "ParentID": 168371,
+                  "Nodes": [
+                      {
+                          "CommonTypeID": 171181,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "湘南区域",
+                          "ParentID": 171107,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171184,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "101533",
+                                  "ParentID": 171181,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171185,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "郴州市青城美林",
+                                          "ParentID": 171184,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,湘南区域,101533,郴州市青城美林"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,湘南区域,101533"
+                              },
+                              {
+                                  "CommonTypeID": 171182,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "101021",
+                                  "ParentID": 171181,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171183,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "郴州中心",
+                                          "ParentID": 171182,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,湘南区域,101021,郴州中心"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,湘南区域,101021"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,直营门店,湘南区域"
+                      },
+                      {
+                          "CommonTypeID": 171178,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "醴攸茶炎衡区域",
+                          "ParentID": 171107,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171179,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "101505",
+                                  "ParentID": 171178,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171180,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "茶陵十六米街",
+                                          "ParentID": 171179,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,醴攸茶炎衡区域,101505,茶陵十六米街"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,醴攸茶炎衡区域,101505"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,直营门店,醴攸茶炎衡区域"
+                      },
+                      {
+                          "CommonTypeID": 171167,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "长沙雨花二区",
+                          "ParentID": 171107,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171176,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310092",
+                                  "ParentID": 171167,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171177,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "正圆小区",
+                                          "ParentID": 171176,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙雨花二区,7310092,正圆小区"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙雨花二区,7310092"
+                              },
+                              {
+                                  "CommonTypeID": 171174,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310163",
+                                  "ParentID": 171167,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171175,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "曙光中路",
+                                          "ParentID": 171174,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙雨花二区,7310163,曙光中路"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙雨花二区,7310163"
+                              },
+                              {
+                                  "CommonTypeID": 171172,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310166",
+                                  "ParentID": 171167,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171173,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "城南东路",
+                                          "ParentID": 171172,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙雨花二区,7310166,城南东路"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙雨花二区,7310166"
+                              },
+                              {
+                                  "CommonTypeID": 171170,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310150",
+                                  "ParentID": 171167,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171171,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "药妆汇车站南路",
+                                          "ParentID": 171170,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙雨花二区,7310150,药妆汇车站南路"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙雨花二区,7310150"
+                              },
+                              {
+                                  "CommonTypeID": 171168,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310043",
+                                  "ParentID": 171167,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171169,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "车站南路",
+                                          "ParentID": 171168,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙雨花二区,7310043,车站南路"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙雨花二区,7310043"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙雨花二区"
+                      },
+                      {
+                          "CommonTypeID": 171158,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "长沙雨花一区",
+                          "ParentID": 171107,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171165,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310034",
+                                  "ParentID": 171158,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171166,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "梓园路口",
+                                          "ParentID": 171165,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙雨花一区,7310034,梓园路口"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙雨花一区,7310034"
+                              },
+                              {
+                                  "CommonTypeID": 171163,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310174",
+                                  "ParentID": 171158,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171164,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "韶山南路",
+                                          "ParentID": 171163,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙雨花一区,7310174,韶山南路"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙雨花一区,7310174"
+                              },
+                              {
+                                  "CommonTypeID": 171161,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310022",
+                                  "ParentID": 171158,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171162,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "三湘小区",
+                                          "ParentID": 171161,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙雨花一区,7310022,三湘小区"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙雨花一区,7310022"
+                              },
+                              {
+                                  "CommonTypeID": 171159,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310004",
+                                  "ParentID": 171158,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171160,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "赤岗冲",
+                                          "ParentID": 171159,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙雨花一区,7310004,赤岗冲"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙雨花一区,7310004"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙雨花一区"
+                      },
+                      {
+                          "CommonTypeID": 171140,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "长沙开福区域",
+                          "ParentID": 171107,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171147,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310449",
+                                  "ParentID": 171140,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171148,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "楚天家园",
+                                          "ParentID": 171147,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙开福区域,7310449,楚天家园"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙开福区域,7310449"
+                              },
+                              {
+                                  "CommonTypeID": 171145,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310105",
+                                  "ParentID": 171140,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171146,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "马栏山",
+                                          "ParentID": 171145,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙开福区域,7310105,马栏山"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙开福区域,7310105"
+                              },
+                              {
+                                  "CommonTypeID": 171143,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310012",
+                                  "ParentID": 171140,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171144,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "百善台",
+                                          "ParentID": 171143,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙开福区域,7310012,百善台"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙开福区域,7310012"
+                              },
+                              {
+                                  "CommonTypeID": 171141,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310497",
+                                  "ParentID": 171140,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171142,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "八一路",
+                                          "ParentID": 171141,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙开福区域,7310497,八一路"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙开福区域,7310497"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙开福区域"
+                      },
+                      {
+                          "CommonTypeID": 171115,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "长沙天心区域",
+                          "ParentID": 171107,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171153,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310179",
+                                  "ParentID": 171115,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171154,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "水竹街路",
+                                          "ParentID": 171153,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙天心区域,7310179,水竹街路"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙天心区域,7310179"
+                              },
+                              {
+                                  "CommonTypeID": 171151,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310071",
+                                  "ParentID": 171115,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171152,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "韶山路",
+                                          "ParentID": 171151,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙天心区域,7310071,韶山路"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙天心区域,7310071"
+                              },
+                              {
+                                  "CommonTypeID": 171149,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310019",
+                                  "ParentID": 171115,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171150,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "南湖嘉园",
+                                          "ParentID": 171149,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙天心区域,7310019,南湖嘉园"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙天心区域,7310019"
+                              },
+                              {
+                                  "CommonTypeID": 171116,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310015",
+                                  "ParentID": 171115,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171117,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "火星路",
+                                          "ParentID": 171116,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙天心区域,7310015,火星路"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙天心区域,7310015"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙天心区域"
+                      },
+                      {
+                          "CommonTypeID": 171108,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "长沙芙蓉区域",
+                          "ParentID": 171107,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171134,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310241",
+                                  "ParentID": 171108,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171135,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "杨家山",
+                                          "ParentID": 171134,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域,7310241,杨家山"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域,7310241"
+                              },
+                              {
+                                  "CommonTypeID": 171132,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310028",
+                                  "ParentID": 171108,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171133,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "文艺路口",
+                                          "ParentID": 171132,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域,7310028,文艺路口"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域,7310028"
+                              },
+                              {
+                                  "CommonTypeID": 171130,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310027",
+                                  "ParentID": 171108,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171131,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "晚报大道",
+                                          "ParentID": 171130,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域,7310027,晚报大道"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域,7310027"
+                              },
+                              {
+                                  "CommonTypeID": 171124,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310276",
+                                  "ParentID": 171108,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171125,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "农大",
+                                          "ParentID": 171124,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域,7310276,农大"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域,7310276"
+                              },
+                              {
+                                  "CommonTypeID": 171122,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310146",
+                                  "ParentID": 171108,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171123,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "凌霄路口",
+                                          "ParentID": 171122,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域,7310146,凌霄路口"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域,7310146"
+                              },
+                              {
+                                  "CommonTypeID": 171120,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310167",
+                                  "ParentID": 171108,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171121,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "解放东路",
+                                          "ParentID": 171120,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域,7310167,解放东路"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域,7310167"
+                              },
+                              {
+                                  "CommonTypeID": 171118,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310015",
+                                  "ParentID": 171108,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171119,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "火星路",
+                                          "ParentID": 171118,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域,7310015,火星路"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域,7310015"
+                              },
+                              {
+                                  "CommonTypeID": 171113,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310014",
+                                  "ParentID": 171108,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171114,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "华天新城",
+                                          "ParentID": 171113,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域,7310014,华天新城"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域,7310014"
+                              },
+                              {
+                                  "CommonTypeID": 171111,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310128",
+                                  "ParentID": 171108,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171112,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "德政街",
+                                          "ParentID": 171111,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域,7310128,德政街"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域,7310128"
+                              },
+                              {
+                                  "CommonTypeID": 171109,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "7310003",
+                                  "ParentID": 171108,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171110,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "车站北路",
+                                          "ParentID": 171109,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域,7310003,车站北路"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域,7310003"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,直营门店,长沙芙蓉区域"
+                      }
+                  ],
+                  "Img": null,
+                  "DepartmentStr": "砖集惠民大药房,直营门店"
+              },
+              {
+                  "CommonTypeID": 80152,
+                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                  "Name": "内容部",
+                  "ParentID": 168371,
+                  "Nodes": [],
+                  "Img": null,
+                  "DepartmentStr": "砖集惠民大药房,内容部"
+              },
+              {
+                  "CommonTypeID": 80151,
+                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                  "Name": "外联部",
+                  "ParentID": 168371,
+                  "Nodes": [],
+                  "Img": null,
+                  "DepartmentStr": "砖集惠民大药房,外联部"
+              },
+              {
+                  "CommonTypeID": 80150,
+                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                  "Name": "市场拓展部",
+                  "ParentID": 168371,
+                  "Nodes": [],
+                  "Img": null,
+                  "DepartmentStr": "砖集惠民大药房,市场拓展部"
+              },
+              {
+                  "CommonTypeID": 80149,
+                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                  "Name": "信息安全部",
+                  "ParentID": 168371,
+                  "Nodes": [],
+                  "Img": null,
+                  "DepartmentStr": "砖集惠民大药房,信息安全部"
+              },
+              {
+                  "CommonTypeID": 80148,
+                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                  "Name": "营销部",
+                  "ParentID": 168371,
+                  "Nodes": [],
+                  "Img": null,
+                  "DepartmentStr": "砖集惠民大药房,营销部"
+              },
+              {
+                  "CommonTypeID": 80147,
+                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                  "Name": "文艺部",
+                  "ParentID": 168371,
+                  "Nodes": [],
+                  "Img": null,
+                  "DepartmentStr": "砖集惠民大药房,文艺部"
+              },
+              {
+                  "CommonTypeID": 80146,
+                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                  "Name": "文化部",
+                  "ParentID": 168371,
+                  "Nodes": [],
+                  "Img": null,
+                  "DepartmentStr": "砖集惠民大药房,文化部"
+              },
+              {
+                  "CommonTypeID": 76071,
+                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                  "Name": "运营中心",
+                  "ParentID": 168371,
+                  "Nodes": [
+                      {
+                          "CommonTypeID": 171263,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "东城片区",
+                          "ParentID": 76071,
+                          "Nodes": [],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,运营中心,东城片区"
+                      },
+                      {
+                          "CommonTypeID": 76072,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "东城片区",
+                          "ParentID": 76071,
+                          "Nodes": [],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,东城片区,运营中心"
+                      }
+                  ],
+                  "Img": null,
+                  "DepartmentStr": "砖集惠民大药房,运营中心"
+              },
+              {
+                  "CommonTypeID": 76069,
+                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                  "Name": "总部",
+                  "ParentID": 168371,
+                  "Nodes": [
+                      {
+                          "CommonTypeID": 171262,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "培训部",
+                          "ParentID": 76069,
+                          "Nodes": [],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,总部,培训部"
+                      },
+                      {
+                          "CommonTypeID": 171247,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "健康城",
+                          "ParentID": 76069,
+                          "Nodes": [],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,总部,健康城"
+                      },
+                      {
+                          "CommonTypeID": 171246,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "人力资源部",
+                          "ParentID": 76069,
+                          "Nodes": [],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,总部,人力资源部"
+                      },
+                      {
+                          "CommonTypeID": 171245,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "审方室",
+                          "ParentID": 76069,
+                          "Nodes": [],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,总部,审方室"
+                      },
+                      {
+                          "CommonTypeID": 171244,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "销售突击队",
+                          "ParentID": 76069,
+                          "Nodes": [],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,总部,销售突击队"
+                      },
+                      {
+                          "CommonTypeID": 171243,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "信息部",
+                          "ParentID": 76069,
+                          "Nodes": [],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,总部,信息部"
+                      },
+                      {
+                          "CommonTypeID": 171242,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "质量部",
+                          "ParentID": 76069,
+                          "Nodes": [],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,总部,质量部"
+                      },
+                      {
+                          "CommonTypeID": 76070,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "培训部",
+                          "ParentID": 76069,
+                          "Nodes": [],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,培训部,总部"
+                      }
+                  ],
+                  "Img": null,
+                  "DepartmentStr": "砖集惠民大药房,总部"
+              },
+              {
+                  "CommonTypeID": 48220,
+                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                  "Name": "崇文门门店",
+                  "ParentID": 168371,
+                  "Nodes": [
+                      {
+                          "CommonTypeID": 169519,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "发的是",
+                          "ParentID": 48220,
+                          "Nodes": [],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,崇文门门店,发的是"
+                      },
+                      {
+                          "CommonTypeID": 48221,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "崇文门信息技术部",
+                          "ParentID": 48220,
+                          "Nodes": [
+                              {
+                                  "CommonTypeID": 171095,
+                                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                  "Name": "IT测试部门",
+                                  "ParentID": 48221,
+                                  "Nodes": [
+                                      {
+                                          "CommonTypeID": 171096,
+                                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                                          "Name": "IT测试部门下级部门",
+                                          "ParentID": 171095,
+                                          "Nodes": [],
+                                          "Img": null,
+                                          "DepartmentStr": "砖集惠民大药房,崇文门信息技术部,崇文门门店,IT测试部门,IT测试部门下级部门"
+                                      }
+                                  ],
+                                  "Img": null,
+                                  "DepartmentStr": "砖集惠民大药房,崇文门信息技术部,崇文门门店,IT测试部门"
+                              }
+                          ],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,崇文门信息技术部,崇文门门店"
+                      }
+                  ],
+                  "Img": null,
+                  "DepartmentStr": "砖集惠民大药房,崇文门门店"
+              },
+              {
+                  "CommonTypeID": 48219,
+                  "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                  "Name": "信息部",
+                  "ParentID": 168371,
+                  "Nodes": [
+                      {
+                          "CommonTypeID": 172463,
+                          "AppUserID": "6d965efe4cb09a048967739d6fd16a29",
+                          "Name": "信息部测试",
+                          "ParentID": 48219,
+                          "Nodes": [],
+                          "Img": null,
+                          "DepartmentStr": "砖集惠民大药房,信息部,信息部测试"
+                      }
+                  ],
+                  "Img": null,
+                  "DepartmentStr": "砖集惠民大药房,信息部"
+              }
+          ],
+          "Img": null,
+          "DepartmentStr": "砖集惠民大药房"
+      }
+  ],
+  "Count": 0
+}
