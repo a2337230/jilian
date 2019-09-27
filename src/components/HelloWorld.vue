@@ -67,7 +67,6 @@ export default {
       }
       let parentBox = document.querySelector('.select')
       let container = document.querySelectorAll('.select-child')
-      
       console.log(container.length, parentBox.offsetWidth)
     }
   },
